@@ -12,5 +12,4 @@ If a map does not appear, refresh the page.
 
 - Fix an issue with my JavaScript sometimes loading before the Google Maps API. This means occasionally the map does not appear on the initial load.
 - Display all cities in the json file by creating a reusable function for displaying city markers on the map. lat/lng co-ordinates could be added to the json or created as an Array.
-- Tell git to ignore the dist folder. I committed the dist folder before adding it to gitignore
-- Display the number of cigarettes by displaying the cigarette icon the corresponding number of times.
+- Display the number of cigarettes using the cigarette icon the corresponding number of times.
