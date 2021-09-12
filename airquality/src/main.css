@@ -1,0 +1,34 @@
+<style>
+  /* Added because the first CSS rule was being ignored */
+  #fakeElement {
+    color: red;
+  }
+
+  #body {
+    padding: 0 5vw;
+  }
+
+  #compare_method {
+    font-style: italic;
+  }
+
+  #map {
+    height: 20vh;
+    float: left;
+    margin: 5% 0;
+  }
+
+  #info {
+    border: black 1px solid;
+    margin: 5% 0;
+    padding: 0 2%;
+    width: 20vw;
+    height: 30vh;
+    float: right;
+  }
+
+  #p_6 {
+    clear: both;
+  }
+
+</style>
