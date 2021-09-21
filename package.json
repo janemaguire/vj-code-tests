@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/janemaguire/vj-code-tests/issues"
   },
-  "homepage": "https://github.com/janemaguire/vj-code-tests#readme"
+  "homepage": "https://github.com/janemaguire/vj-code-tests#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
 }
